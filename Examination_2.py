@@ -6,4 +6,8 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-n = int(input())
+n = int(input("จำนวนเต็ม: "))
+if n= เลขคู่
+print ("Even")
+else n= เลขคี่
+print ("Odd")
