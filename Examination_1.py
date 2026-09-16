@@ -5,5 +5,8 @@
 # ==========================================
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-b = float(input())
-h = float(input())
+b = float(input("ความยาวฐาน: "))
+h = float(input("ความสูง: "))
+discound = 0.5*b*h
+total = discound 
+print {net_total.2f: }
